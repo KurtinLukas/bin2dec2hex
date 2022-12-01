@@ -1,0 +1,11 @@
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\bin\Debug\ciselneSoustavy.exe.config
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\bin\Debug\ciselneSoustavy.exe
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\bin\Debug\ciselneSoustavy.pdb
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.csproj.AssemblyReference.cache
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.csproj.SuggestedBindingRedirects.cache
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.Form1.resources
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.Properties.Resources.resources
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.csproj.GenerateResource.cache
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.csproj.CoreCompileInputs.cache
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.exe
+G:\POS\gitHub\ciselneSoustavy\ciselneSoustavy\obj\Debug\ciselneSoustavy.pdb
